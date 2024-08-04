@@ -12,7 +12,7 @@
 	<artifactId>springboot-flyway-demo</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>SpringBoot + Flyway Demo</name>
-	<description>Project demonstrates integration between SpringBoot and Flyway</description>
+	<description>Project test demonstrates integration between SpringBoot and Flyway</description>
 	<url/>
 	<licenses>
 		<license/>
